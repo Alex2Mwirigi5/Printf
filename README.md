@@ -1,1 +1,1 @@
-printf peoject
+printf project
